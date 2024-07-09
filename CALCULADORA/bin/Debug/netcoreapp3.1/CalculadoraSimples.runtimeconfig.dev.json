@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\phpmm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\phpmm\\.nuget\\packages"
+    ]
+  }
+}
